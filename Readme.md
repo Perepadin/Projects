@@ -1,21 +1,42 @@
 <h1> Портфолио Перепадина Александра QA Engineer</h1> 
 
+**21.08.21 по настоящие время** - работаю в компании [ООО «Тензор»](https://tensor.ru/) на должности инженер-тестировщик. В рамках работы участвую в поддержке качества существующих и разработки новых продуктов. 
+Активно внедряю технику тестирование API используя Postman. 
 
 **11.03.2021 – 25.09.2021** – прошел обучение в онлайн университете [«Нетология»](https://netology.ru/) по специальности «Тестировщик ПО». В рамках обучения проводится курс по ручному тестированию и автоматизации тестирования на Java.
+Получен [диплом](https://drive.google.com/file/d/1QKTmX34B0jg8zG4ouIHOm6kLJHwEX2sH/view) об успешном прохождении обучения. 
 
-**Пройденные модули:**
 
-9 апреля 2021 года закончен 1 модуль [«Введение в тестирование»](https://drive.google.com/file/d/1aOX8JNS3WSLH_nx8vXfLJZ8Tsq6lR_vB/view?usp=sharing).
+<h3>Навыки</h3>
+- Разработка, ведение и сопровождение тестовой документации;
+- Опыт выполнения функционального, регрессионного, нагрузочного и стрессового тестирования
+-  Написание баг-репортов, тест-кейсов, чек-листов.
+- Тестирование технической документации, макетов; 
+- Сопровождение проектов от этапа планирования до внедрения, поддержка продуктов после релиза;
+- Обработка обращений клиентов;
+- Опыт наставничества над новыми сотрудниками;
+- Составление блок-схем для сопоставления текущей реализации с заявленной по ТЗ.
 
-27 апреля 2021 года закончен 2 модуль [«Git — система контроля версий»](https://drive.google.com/file/d/1k8Y43wSZL7hesUkqqfyHSNZa_hxl6TYK/view?usp=sharing).
+<h3>Инструменты и языки</h3>
 
-4 июля 2021 года закончен 3 модуль [«Java для тестировщиков».](https://drive.google.com/file/d/1yNVaUWlG-MJlgYzmRupgzuXmEF074PiI/view?usp=sharing)
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 
-С 12 июля 2021 года по настоящее время прохожу обучение по 4 модулю «Автоматизированное тестирование».
+![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=#3776AB)
+![Header](https://img.shields.io/badge/JAva-090909?style=for-the-badge&logo=&logoColor=#3776AB)
+![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=##43B02A)
+![Header](https://img.shields.io/badge/Dbiver-090909?style=for-the-badge&logo=&logoColor=#3776AB)
+
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
+![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
+
 
 <h2>Самостоятельно реализованные проекты:</h2>
 
-1. [Тестирование страницы авторизации социальной сети «Вконтакте»](https://docs.google.com/spreadsheets/d/1srDjZpndG7LZgmqoGw7Ql7RW3c0mUMGrQT2RCHALWFU/edit#gid=1285495292)
+1. *[Тестирование страницы авторизации социальной сети «Вконтакте»](https://docs.google.com/spreadsheets/d/1srDjZpndG7LZgmqoGw7Ql7RW3c0mUMGrQT2RCHALWFU/edit#gid=1285495292)*
 
 **Задачи:**
 - Провести ручное тестирование страницы авторизации (https://vk.com/login).
@@ -31,9 +52,8 @@
 - Заведение баг-репортов;
 - Подготовка [отчета о тестировании](https://docs.google.com/document/d/1loRpGD7iAEyTkjKk-ln_oJxTTL25XmT_NwY21CBCCys/edit).
 
-<h2>Учебные проекты на курсе «Тестировщик ПО» в Нетологии:</h2>
 
-2. [Функциональное тестирование личного кабинета онлайн магазина HENDERSON](https://docs.google.com/spreadsheets/d/12Cey1VBha-iLtOWARsq6TAkQgXwbP9FUHHvVtqAQP-U/edit#gid=0)
+2. *[Функциональное тестирование личного кабинета онлайн магазина HENDERSON](https://docs.google.com/spreadsheets/d/12Cey1VBha-iLtOWARsq6TAkQgXwbP9FUHHvVtqAQP-U/edit#gid=0)*
 
 **Задачи:**
 - Написать чек-лист для функциональной проверки личного кабинета, зарегистрированного на сайте (https://henderson.ru).
@@ -49,36 +69,27 @@
 - Тестирование верстки;
 - Заведение баг-репортов.
 
-3. [Проект «Умный дом» (расширенный) с использованием конструкторов и покрытие кода тестами](https://github.com/Perepadin/Radio/tree/flexible) 
-  
-  
-**Задачи:**
-
-- Подключите плагин Surefire так, чтобы сборка падала в случае отсутствия тестов;
-- Реализуйте нужные классы и методы; 
-- Подключите плагин JaCoCo в режиме генерации отчётов;
-- Напишите автотесты на методы, содержащие логику, добившись 100% покрытия по branch'ам;
-- Подключите CI на базе Github Actions и выложите всё на Github.
-
-**Используемые технологии:**
-- Подключение плагина Surefire при отсутствии тестов происходит падение сборки.
-- Написание нужных классов и методов;
-- Подключение плагина JaCoCo в режиме генерации отчётов (обрушение сборки, если покрытие не достигло
-100% по branch'ам);
-- Написание автотестов на методы, содержащие логику;
-- Настройка CI на базе Github Actions.
 
 
-4. [TicketSearch (использование интерфейсов для организации связанности)](https://github.com/Perepadin/TicketSearch)
+3. *[Автоматизации тестирования формы "Путешествие дня - Марракеш".](https://github.com/Perepadin/MyDiplomQA)*
+
 
 **Задачи:**
-- Спроектировать класс для информации о "Поиске билетов";
-- Реализовать репозиторий для хранения информации о "Билетах" (добавить, удалить, получить список);
-- Реализовать менеджер поиска по аэропорту вылета и аэропорту прилёта
+- Провести тестирование формы покупки тура "Путешествие дня - Марракеш" (покупка по карте и покупка в кредит).
+- Проверить взаимодействие приложения с банковскими сервисами.
+- Протестировать сохранение информации в СУБД (заявленные СУБД: MySQL и PostgreSQL).
+- Произвести настройку формирования отчетов об успешности прохождения автотестов.
+- Подготовка отчётных документов по итогам автоматизированного тестирования.
+- Подготовка отчётных документов по итогам автоматизации.
 
 **Используемые технологии:**
-- Написание класса по «Поиску билетов»;
-- Создание репозитория и написания функций по добавлению и удалению билетов, получение списка билетов;
-- Написание менеджера поиска по аэропорту вылета и аэропорту прилёта.
-- Написание автотестов на методы, содержащие логику; 
-- Настройка CI на базе Github Actions.
+- Написание [плана автоматизации](https://github.com/Perepadin/MyDiplomQA/blob/master/documentation/TestPlan.md);
+- Составление перечня автоматизируемых сценариев (тест-кейсов);
+- Написание автотестов на Java на покрытие основных бизнес-процессов;
+- Проведено тестирование сохранение информации в СУБД;
+- Создание отчетов на базе Allure;
+- Создание репозитория и написания необходимых инструкций для клонирования данных;
+- Использование Docker;
+- Составление итогового [отчета об автоматизации](https://github.com/Perepadin/MyDiplomQA/blob/master/documentation/Summary.md) и [отчета по тестированию](https://github.com/Perepadin/MyDiplomQA/blob/master/documentation/Report.md) формы.
+
+В рамках работы заведены [баг-репорты](https://github.com/Perepadin/MyDiplomQA/issues).
