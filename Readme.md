@@ -8,6 +8,7 @@
 
 
 <h3>Навыки</h3>
+
 - Разработка, ведение и сопровождение тестовой документации;
 
 - Опыт выполнения функционального, регрессионного, нагрузочного и стрессового тестирования;
@@ -98,5 +99,4 @@
 - Создание репозитория и написания необходимых инструкций для клонирования данных;
 - Использование Docker;
 - Составление итогового [отчета об автоматизации](https://github.com/Perepadin/MyDiplomQA/blob/master/documentation/Summary.md) и [отчета по тестированию](https://github.com/Perepadin/MyDiplomQA/blob/master/documentation/Report.md) формы.
-
-В рамках работы заведены [баг-репорты](https://github.com/Perepadin/MyDiplomQA/issues).
+- Заведение [баг-репортов](https://github.com/Perepadin/MyDiplomQA/issues).
