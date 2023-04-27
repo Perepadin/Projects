@@ -1,7 +1,8 @@
 <h1> Портфолио Перепадина Александра QA Engineer</h1> 
 
 **21.08.21 по настоящие время** - работаю в компании [ООО «Тензор»](https://tensor.ru/) на должности инженер-тестировщик. В рамках работы участвую в поддержке качества существующих и разработки новых продуктов. 
-Активно внедряю технику тестирование API используя Postman. 
+Активно внедряю технику тестирование API используя Postman, нагрузочного тестирования через Jmeter. 
+Провожу поддержку автотестов на Python.
 
 **11.03.2021 – 25.09.2021** – прошел обучение в онлайн университете [«Нетология»](https://netology.ru/) по специальности «Тестировщик ПО». В рамках обучения проводится курс по ручному тестированию и автоматизации тестирования на Java.
 Получен [диплом](https://drive.google.com/file/d/1QKTmX34B0jg8zG4ouIHOm6kLJHwEX2sH/view) об успешном прохождении обучения. 
@@ -25,6 +26,7 @@
 
 - Составление блок-схем для сопоставления текущей реализации с заявленной по ТЗ.
 
+- Налаживание процессов интерграционного тестирования между командами тестирования разных продуктов.
 <h3>Инструменты и языки</h3>
 
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=#3776AB)
@@ -35,6 +37,8 @@
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/Dbiver-090909?style=for-the-badge&logo=&logoColor=#3776AB)
+![Header](https://img.shields.io/badge/Jmeter-090909?style=for-the-badge&logo=&logoColor=#3776AB)
+
 
 ![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=##43B02A)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
