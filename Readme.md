@@ -112,7 +112,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="Testrail" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1534378380/testrail.png" alt="Testrail" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://dd-static.jd.com/ddimg/jfs/t1/119675/40/28628/35286/62bf1ccfEf6712210/59b1edb57c92011f.png" alt="python" width="40" height="40"/> </a>
+<a href="Postman" target="_blank" rel="noreferrer"> <img src="https://dd-static.jd.com/ddimg/jfs/t1/119675/40/28628/35286/62bf1ccfEf6712210/59b1edb57c92011f.png" alt="Postman" width="40" height="40"/> </a>
 <a href="GIT" target="_blank" rel="noreferrer"> <img src="https://pngset.com/images/github-logo-label-text-symbol-transparent-png-2425199.png" alt="Git" width="40" height="40"/> </a>
 <a href="DBeaver" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" alt="DBeaver" width="40" height="40"/> </a>
 <a href="Jmeter" target="_blank" rel="noreferrer"> <img src="https://techlogitic.net/wp-content/uploads/2019/02/Picture1.png" alt="Jmeter" width="40" height="40"/> </a>
