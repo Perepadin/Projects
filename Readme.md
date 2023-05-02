@@ -29,15 +29,15 @@
 - Налаживание процессов интерграционного тестирования между командами тестирования разных продуктов.
 <h3>Инструменты и языки</h3>
 
-![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=#3776AB)
-![Header](https://img.shields.io/badge/JAva-090909?style=for-the-badge&logo=&logoColor=#3776AB)
-![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
+![Header](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=Python&logoColor=#3776AB)
+![Header](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=&logoColor=#3776AB)
+![Header](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Jenkins-FFFFFF?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
 
-![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Header](https://img.shields.io/badge/Dbiver-090909?style=for-the-badge&logo=&logoColor=#3776AB)
-![Header](https://img.shields.io/badge/Jmeter-090909?style=for-the-badge&logo=&logoColor=#3776AB)
+![Header](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/Dbiver-FFFFFF?style=for-the-badge&logo=&logoColor=#3776AB)
+![Header](https://img.shields.io/badge/Jmeter-FFFFFF?style=for-the-badge&logo=&logoColor=#3776AB)
 
 
 ![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=##43B02A)
